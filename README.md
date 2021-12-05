@@ -1,2 +1,2 @@
 # Minesweeper
-A simulation of the classical game Minesweeper made in C
+A simulation of the classical one-player game Minesweeper made in C
