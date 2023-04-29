@@ -12,7 +12,10 @@ But wait, there's more! We've added some new features to the game that will make
 
 **Custom board gameplay option:** Want to make the game really easy or extremely hard? Now you can! With the custom board gameplay option, you can customize the game to your liking. Go ahead, make it as challenging as you want!
 
+Hey! not only that, if you are mischievous and wanna break the ame, go on! 🤭 I've taken care of all your possible inputs, even the wrong ones.. LOL!!
+
 So what are you waiting for? Don't miss out on the fun! Just open the .exe file to run the game on MS DOS, or run the .c file on a C environment/IDE. 
 
 ## Get ready to test your skills and become a Minesweeper master!
 
+## Screenshots
