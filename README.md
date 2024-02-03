@@ -1,5 +1,3 @@
-# Minesweeper
-
 ![Intro](/Images/1.png)
 
 Welcome to Minesweeper in C – the classic one-player game with a twist! If you haven't experienced the thrill of Minesweeper, now's your chance. Our C-based simulation brings the addictive gameplay to life, and we've spiced it up with some exciting features.
