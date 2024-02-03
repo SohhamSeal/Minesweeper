@@ -1,21 +1,42 @@
 # Minesweeper
 
-Hey there, fellow gamer! Have you ever played Minesweeper? If not, then you're missing out on one of the most addictive and fun games out there! And now, we've got some exciting news for you - we've developed a simulation of the classic one-player game Minesweeper, and it's made in C!
+![Intro](/Images/1.png)
 
-But wait, there's more! We've added some new features to the game that will make your experience even better! Here are some of the highlights:
+Welcome to Minesweeper in C – the classic one-player game with a twist! If you haven't experienced the thrill of Minesweeper, now's your chance. Our C-based simulation brings the addictive gameplay to life, and we've spiced it up with some exciting features.
 
-**Scoreboard:** Now you can show off your skills and compete with other players! We've added a scoreboard that displays the top 5 players and their total time taken for all three modes of gameplay. It's time to put your name on that leaderboard!
+## Highlights
 
-**No death on the first choice:** We know that sometimes the game can be too difficult and frustrating, so we've made it easier for you! Now, there won't be any death on the first choice. Phew, that was a close one!
+- **Scoreboard:** Compete with the best! Our scoreboard showcases the top 5 players across all three game modes, allowing you to flaunt your skills and climb the ranks.
 
-**Audio Cues and ASCII decorations:** Who says games have to be boring? We've added some cool sound effects and ASCII decorations to make your gaming experience more fun and exciting!
+- **Safe Start:** No more instant game over on your first pick! We've removed the initial threat, ensuring a smoother start to your Minesweeper journey.
 
-**Custom board gameplay option:** Want to make the game really easy or extremely hard? Now you can! With the custom board gameplay option, you can customize the game to your liking. Go ahead, make it as challenging as you want!
+- **Audio Cues and ASCII Decorations:** Elevate your gaming experience with engaging sound effects and quirky ASCII decorations. Who said Minesweeper couldn't be fun?
 
-Hey! not only that, if you are mischievous and wanna break the ame, go on! 🤭 I've taken care of all your possible inputs, even the wrong ones.. LOL!!
+- **Custom Board Gameplay:** Tailor the difficulty to your liking! Use the custom board gameplay option to create challenges that suit your skill level – easy or brutally hard, it's your call.
 
-So what are you waiting for? Don't miss out on the fun! Just open the .exe file to run the game on MS DOS, or run the .c file on a C environment/IDE. 
-
-## Get ready to test your skills and become a Minesweeper master!
+> [!NOTE]
+> Ready for some fun? Just run the .exe file on MS DOS or execute the .c file in your preferred C environment/IDE.
 
 ## Screenshots
+
+### Rules and Guidelines
+![Rules](/Images/2.png)
+
+### Game Menu
+![Menu](/Images/3.png)
+
+### Gameplay
+![Gameplay](/Images/4.png)
+
+### Victory!
+![Won](/Images/6.png)
+
+### Defeat...
+![Lost](/Images/5.png)
+
+### Scoreboard
+![Scoreboard](/Images/7.png)
+
+> [!CAUTION]
+> All Mischief-makers out there, feel free to break the game! 😏 
+> We've accounted for all kinds of inputs, even the not-so-serious ones.
